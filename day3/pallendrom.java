@@ -14,7 +14,9 @@ package day3;
 
     }
     if (original==res){
-        System.out.println("p");
+        System.out.println("palindrome");
+    }else{
+        System.out.println("not palindrome");
     }
    
 }
