@@ -14,9 +14,15 @@ public class array2 {
         System.out.println("enter the elements");
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
-            sum+=arr[i];
+           // sum+=arr[i];
         }
-        System.out.println("sum = "+ sum);
+       //System.out.println("sum = "+ sum);
+       for(int i=0;i<arr.length;i++){
+    
+        System.out.println("{" arr[i] + "," "}");
+        
+       }
+       
     }
     
     
