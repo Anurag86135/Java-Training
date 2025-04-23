@@ -17,6 +17,4 @@ public class String2 {
          System.out.println(newstr);
 
     }
-    //System.out.println(newstr);
     
-}
