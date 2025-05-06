@@ -5,7 +5,7 @@ public class pattern2 {
                 System.out.print("3");
 
             }
-            System.out.println();
+            System.out.println("");
         }
     }
     

@@ -11,6 +11,7 @@ public class vehicle {
 class bike extends vehicle{
     void run(){
         System.out.println("ye bhi chalti hai");
+        super.run();//always call in child not in main. 
     }
 }
 
