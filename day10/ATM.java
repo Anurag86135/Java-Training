@@ -1,21 +1,21 @@
-package day10;
+// package day10;
 
-public class ATM {
-    private int a;
-    void setRupees(int a){
-        this.a=a;
+// public class ATM {
+//     private int a;
+//     void setRupees(int a){
+//         this.a=a;
 
-    }
-    int getRupees(){
-        return a;
-    }
+//     }
+//     int getRupees(){
+//         return a;
+//     }
 
     
-}
-class main{
-    public static void main(String[] args) {
-        ATM obj=new ATM();
-        obj.setRupees(50001);
-        System.out.println(obj.getRupees());
-    }
-}
+// }
+// class main{
+//     public static void main(String[] args) {
+//         ATM obj=new ATM();
+//         obj.setRupees(50001);
+//         System.out.println(obj.getRupees());
+//     }
+// }
