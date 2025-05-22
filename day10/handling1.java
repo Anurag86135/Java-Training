@@ -9,6 +9,7 @@ public static void main(String[] args) {
         System.out.println(c);
         
     } catch (Exception e) {
+        System.out.println(e);
         System.out.println("Zero is not divisible with any number");
     }
     System.out.println("hello");
