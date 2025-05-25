@@ -1,7 +1,7 @@
 package day11;
 
 public class Recursion6 {
-    //print x^n(stact heigth =n)
+    //print x^n(stack heigth =n)
 
     public static int calPower(int x,int n){
         if(n==0){//base case 1
